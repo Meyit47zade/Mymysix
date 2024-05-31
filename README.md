@@ -1,6 +1,6 @@
 
 ## Telegram Music Bot
-##  [ [Githup Repo](https://github.com/MehmetAtes21/music) ]
+##  [ [Githup Repo](https://github.com/Meyit47zade/Mymysix) ]
 
 ------------------------
 
@@ -21,5 +21,5 @@
 
 ## Heroku Kurulum ⏳
 
- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MehmetAtes21/Music)
+ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Meyit47zade/Mymysix)
 
